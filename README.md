@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
-  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab](https://github.com/c-allison/ActiveDirectoryLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>

@@ -1,9 +1,12 @@
 <h1>Hi, I'm Chris! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨🏾‍💻 Cyber Security Projects:</h2>
 
 
   - [Active Directory Lab](https://github.com/c-allison/ActiveDirectoryLab)
+  
+  <h2>📄 Certifications</h2>
+- CompTia Security+ (https://www.credly.com/badges/5c3db6d0-5d13-4824-a01f-40ac13b14410/linked_in_profile)
 
 
 <h2>📺 Popular YouTube Videos</h2>

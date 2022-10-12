@@ -3,14 +3,14 @@
 <h2>👨🏾‍💻 Cyber Security Projects:</h2>
 
 
-  - [Active Directory Lab](https://github.com/c-allison/ActiveDirectoryLab)
+  - [Active Directory Home Lab](https://github.com/c-allison/ActiveDirectoryLab)
   
   <h2>📄 Certifications</h2>
 - CompTia Security+ (https://www.credly.com/badges/5c3db6d0-5d13-4824-a01f-40ac13b14410/linked_in_profile)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-- [How to Create a KeyLogger ](https://www.youtube.com/watch?v=N-L9hklSlNk)
+<h2>📺 YouTube Videos</h2>
+- [How To Create Active Directory] (https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 
 <h2> 🤳 Connect with me:</h2>
